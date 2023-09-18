@@ -7,27 +7,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSeonJun)](https://github.com/ChoiSeonJun/github-readme-stats)
 
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-
-**두껍게** <br>
-*기울임꼴* <br>
---취소선-- <br>
-
-* 1번
-* 2번
-- 1번
-- 2번
-
-[네이버](https://www.naver.com/)
-
-```
-<html> ~~~</html>
-```
-
-
 
 
 
